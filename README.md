@@ -11,8 +11,8 @@ LazySwap was created to replace other worse macros, by using a trash UI we insur
 - [How to use](https://www.youtube.com/watch?v=ses4bXWr4oA)
 
 **Showcase:**
-- Swap mode 1: https://i.gyazo.com/8913f8d2ac6de3b1f1b04368b52d24fc.mp4
-- Swap mode 2: https://i.gyazo.com/a54622b661119b7fd20d114f5f1ec502.mp4
+[- Swap mode 1: ](https://github.com/TheLazyTools/LazySwitch/assets/134757038/2133d286-beef-4278-add7-a68c7ad29b65)
+[- Swap mode 2: ](https://github.com/TheLazyTools/LazySwitch/assets/134757038/2027b6b5-985d-4bef-85d5-ea9bafe48a5d)
 ## Authors
 
 - Main dev: [@Becut](https://namemc.com/becut)
