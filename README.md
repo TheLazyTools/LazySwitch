@@ -8,7 +8,7 @@ LazySwap was created to replace other worse macros, by using a trash UI we insur
 **ALSO STAR US SO WE MAKE IT OUT THE HOOD**
 ## Video and image gallery
 
-- [How to use]()
+- [How to use](https://www.youtube.com/watch?v=ses4bXWr4oA)
 
 **Showcase:**
 - Swap mode 1: https://i.gyazo.com/8913f8d2ac6de3b1f1b04368b52d24fc.mp4
