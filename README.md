@@ -3,6 +3,8 @@
 
 LazySwap was created to replace other worse macros, by using a trash UI we insure your pupils will bleed and retinas will tear, it'll get you into diamond so you don't die to that pesky rogue but it won't stop you quickdropping to that archer around the corner.
 
+*Currently closed source until I fix the spaghetti code mess and I see the project is worth actually pursuing more*
+
 **Seriously though we don't have a discord server or telegram so do not download off random kids just use the github link**
 
 **ALSO STAR US SO WE MAKE IT OUT THE HOOD**
