@@ -1,5 +1,5 @@
 
-# LazySwap / LazySwap
+# LazySwap / LazySwitch
 
 LazySwap was created to replace other worse macros, by using a trash UI we insure your pupils will bleed and retinas will tear, it'll get you into diamond so you don't die to that pesky rogue but it won't stop you quickdropping to that archer around the corner.
 
